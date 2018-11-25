@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="47a1505a-2d48-4438-8fc5-137c6bc8eb03" name="julia-semenova.ru" url="http://vh132.timeweb.ru">
+        <fileTransfer host="vh132.timeweb.ru" port="21" rootFolder="/public_html/wp-content/themes/wordpresstheme">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
